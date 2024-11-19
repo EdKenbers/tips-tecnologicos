@@ -28,7 +28,8 @@ Cada carpeta corresponde a una tecnología o herramienta específica, y dentro e
 Aquí encontrarás una lista actualizada de todos los tips disponibles en este repositorio:
 
 ### Docker
-1. [Multi-stage Builds: Optimiza tus imágenes Docker](./docker/001-multi-stage-builds.md)
+1. [Multi-stage Builds: Optimiza tus imágenes Docker](./tips/docker/001-multi-stage-builds.md)
+2. [Optimiza el orden de las instrucciones en tu Dockerfile](./tips/docker/002-dockerfile-order.md)
 
 ### Kubernetes
 *(Próximamente)*
